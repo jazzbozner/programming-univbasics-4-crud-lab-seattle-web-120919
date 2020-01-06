@@ -16,3 +16,4 @@ end
 
 def remove_element_from_end_of_array(arr)
   arr.pop
+end
