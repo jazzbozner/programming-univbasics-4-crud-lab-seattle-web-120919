@@ -17,3 +17,7 @@ end
 def remove_element_from_end_of_array(arr)
   arr.pop
 end
+
+def remove_element_from_start_of_array(arr, element)
+  arr.shift(element)
+end
