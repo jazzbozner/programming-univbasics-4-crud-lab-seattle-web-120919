@@ -34,6 +34,6 @@ def retrieve_last_element_from_array(arr)
   arr.last
 end
 
-def update_element_from_index(arr, element)
-  arr[element] = element
+def update_element_from_index(arr, idex, element)
+  arr[index] = element
 end
